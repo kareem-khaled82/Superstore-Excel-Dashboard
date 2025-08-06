@@ -58,7 +58,7 @@ If you have any ideas to improve this dashboard or want to collaborate on more E
 
 ## 📬 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kareemkhaled2032/))
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile]www.linkedin.com/in/kareemkhaled2032)
 - [GitHub]([https://github.com/yourusername](https://github.com/kareem-khaled82))
 
 ---
